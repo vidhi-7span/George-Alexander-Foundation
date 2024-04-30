@@ -42,8 +42,28 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  padding-bottom: 170px;
+}
+
+.hero__content {
+  display: flex;
+  margin-top: -100px;
+  gap: 100px;
 }
 .hero__image {
   height: 650px;
-  width: 790px;
+  width: auto;
+}
+.hero__content p {
+  color: #1c4953;
+  font-size: 21px;
+  width: 400px;
+}
+.hero__content button {
+  padding: 16px 48px;
+  color: #7fe27b;
+  font: 26px;
+  background-color: #1c4953;
+  border: none;
+  border-radius: 8px;
 }
