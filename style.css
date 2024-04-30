@@ -67,3 +67,28 @@
   border: none;
   border-radius: 8px;
 }
+.support {
+  display: flex;
+  gap: 92px;
+  justify-content: center;
+  align-items: center;
+}
+.support__title {
+  font-size: 64px;
+  margin-bottom: 18px;
+}
+.support__desc {
+  color: #1c4953;
+  font-size: 21px;
+  width: 350px;
+  margin-top: 40px;
+}
+.support button{
+  padding: 16px 48px;
+  color: #1c4953;
+  font: 26px;
+  background-color: #7fe27b;
+  border: none;
+  border-radius: 8px;
+  margin-top: 36px;
+}
