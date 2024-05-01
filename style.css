@@ -152,3 +152,44 @@
   text-decoration: none;
   color: #1c4953;
 }
+.apply__bg {
+  background-color: #1c4953;
+}
+.apply {
+  display: flex;
+  align-items: center;
+}
+.apply__content {
+  width: 50%;
+  padding-right: 224px;
+}
+.apply__title {
+  font-size: 52px;
+  color: #7fe27b;
+}
+.apply__title span {
+  color: white;
+  font: 52px;
+}
+.apply__desc {
+  color: white;
+  margin: 53px 0 32px;
+  line-height: 25px;
+}
+.apply__image {
+  width: 50%;
+}
+.apply__image img {
+  height: 500px;
+  width: 500px;
+}
+.apply__action{
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+.apply__action a{
+  color: #7fe27b;
+  font-size: 18px;
+  text-decoration: none;
+}
