@@ -295,12 +295,10 @@
   font-weight: normal;
   outline: none;
 }
-
 .contact__inputs input::placeholder {
   font-size: 14px;
   color: #676784;
 }
-
 .contact__inputs button {
   background-color: #1c4953;
   color: #7fe27b;
@@ -333,6 +331,8 @@
   color: #676784;
   outline: none;
 }
+
+
 .footer {
   display: flex;
   border-bottom: #7fe27b solid 2px;
