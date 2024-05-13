@@ -87,3 +87,16 @@
   background-position: center;
   padding-top: 473px;
 }
+.founder__details {
+  margin: 90px 0;
+  padding: 0 220px;
+}
+.founder__title {
+  font-size: 38px;
+  padding-bottom: 23px;
+}
+.founder__desc {
+  color: grey;
+  font-size: 16px;
+  line-height: 30px;
+}
