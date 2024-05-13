@@ -67,17 +67,23 @@
   color: grey;
   font-size: 18px;
 }
-.about__head{
+.about__head {
   font-size: 45px;
   font-weight: bolder;
   color: rgb(65, 65, 65);
-
 }
 .about__content {
   width: 50%;
 }
-.about__desc{
+.about__desc {
   color: grey;
   font-size: 18px;
   line-height: 30px;
+}
+.history__bg {
+  background-image: url("./images/history_bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top: 473px;
 }
