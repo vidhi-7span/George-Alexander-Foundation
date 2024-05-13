@@ -105,7 +105,7 @@
   justify-content: center;
 }
 .years {
-  margin: 95px 0;
+  margin: 80px 0;
   display: flex;
   align-items: center;
   gap: 123px;
@@ -113,13 +113,34 @@
 .years__image {
   width: 40%;
 }
-.years__content{
+.years__content {
   width: 60%;
 }
 .years__title {
   font-size: 38px;
 }
 .years__desc {
+  color: grey;
+  font-size: 16px;
+  line-height: 25px;
+  margin-top: 20px;
+}
+.learn {
+  margin: 95px 0;
+  display: flex;
+  align-items: center;
+  gap: 100px;
+}
+.learn__content {
+  width: 60%;
+}
+.learn__image {
+  width: 40%;
+}
+.learn__title {
+  font-size: 38px;
+}
+.learn__desc {
   color: grey;
   font-size: 16px;
   line-height: 25px;
