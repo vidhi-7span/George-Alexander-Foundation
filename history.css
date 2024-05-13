@@ -146,3 +146,15 @@
   line-height: 25px;
   margin-top: 20px;
 }
+.philanthropist {
+  padding: 0 300px 100PX;
+}
+.philanthropist__title {
+  font-size: 38px;
+}
+.philanthropist__desc {
+  color: grey;
+  font-size: 16px;
+  line-height: 25px;
+  margin-top: 20px;
+}
